@@ -1,0 +1,81 @@
+.list-item {
+    list-style: none;
+    border-bottom: 2px #999 solid;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    overflow-x: hidden;
+}
+
+.list-item-info-text {
+    text-align: left;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    margin-right: 10px;
+}
+
+.list-item-info-text.completed {
+    text-decoration: line-through;
+    color: #999;
+}
+
+.list-item-controls {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.list-item-controls > * {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.list-item-controls.completed {
+    color: lightgrey;
+}
+
+.list-container {
+    margin: 15px;
+    width: 300px;
+    min-width: 300px;
+}
+
+.list-container-large {
+    width: 600px;
+    min-width: 600px;
+}
+
+
+.list-content {
+    height: 500px;
+    overflow-y: scroll;
+    border: 2px gray solid;
+    border-radius: 10px;
+    background-color: rgba(34, 34, 34, 0.8);
+    padding: 15px;
+    padding-top: 20px;
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.1);
+}
+
+::-webkit-scrollbar {
+    width: 0;
+}
+
+.content {
+    width: 100%;
+    margin-top: -35px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.add-button-container {
+    background-color: rgb(30, 139, 62);
+    border-radius: 10px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+

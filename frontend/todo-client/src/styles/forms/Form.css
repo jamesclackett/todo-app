@@ -1,0 +1,47 @@
+.login-form-content {
+    width: 500px;
+}
+
+.login-form-container {
+    display: flex;
+    justify-content: center;
+}
+
+
+.login-form-input {
+    min-width: 400px;
+}
+
+input {
+    position: relative;
+    height: 40px;
+    width: 400px;
+    margin-bottom: 15px;
+    padding-left: 10px;
+}
+
+.input-icon {
+    position: absolute;
+    transform: translateX(-25px) translateY(15px);
+    
+}
+
+.todo-form-input * {
+    display: block;
+    text-align: left;
+}
+
+.todo-form-input-checkbox {
+    display: flex;
+    align-items: center ;
+}
+
+.checkbox-button {
+    width: 20px;
+}
+
+.todo-form-controls {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+}

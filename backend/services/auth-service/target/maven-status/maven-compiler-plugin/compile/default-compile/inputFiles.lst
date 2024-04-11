@@ -1,0 +1,12 @@
+/Users/jamesclackett/Programming/Development/Web/Projects/TodoApp/backend/services/auth-service/src/main/java/com/james/authservice/AuthServiceApplication.java
+/Users/jamesclackett/Programming/Development/Web/Projects/TodoApp/backend/services/auth-service/src/main/java/com/james/authservice/dtos/AuthDTO.java
+/Users/jamesclackett/Programming/Development/Web/Projects/TodoApp/backend/services/auth-service/src/main/java/com/james/authservice/repositories/AuthRepository.java
+/Users/jamesclackett/Programming/Development/Web/Projects/TodoApp/backend/services/auth-service/src/main/java/com/james/authservice/dtos/AuthResponseDTO.java
+/Users/jamesclackett/Programming/Development/Web/Projects/TodoApp/backend/services/auth-service/src/main/java/com/james/authservice/entities/Auth.java
+/Users/jamesclackett/Programming/Development/Web/Projects/TodoApp/backend/services/auth-service/src/main/java/com/james/authservice/exceptions/ResourceNotFoundException.java
+/Users/jamesclackett/Programming/Development/Web/Projects/TodoApp/backend/services/auth-service/src/main/java/com/james/authservice/services/TokenService.java
+/Users/jamesclackett/Programming/Development/Web/Projects/TodoApp/backend/services/auth-service/src/main/java/com/james/authservice/controllers/AuthController.java
+/Users/jamesclackett/Programming/Development/Web/Projects/TodoApp/backend/services/auth-service/src/main/java/com/james/authservice/services/impl/AuthServiceImpl.java
+/Users/jamesclackett/Programming/Development/Web/Projects/TodoApp/backend/services/auth-service/src/main/java/com/james/authservice/services/impl/TokenServiceImpl.java
+/Users/jamesclackett/Programming/Development/Web/Projects/TodoApp/backend/services/auth-service/src/main/java/com/james/authservice/mapper/AuthMapper.java
+/Users/jamesclackett/Programming/Development/Web/Projects/TodoApp/backend/services/auth-service/src/main/java/com/james/authservice/services/AuthService.java

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.james.authservice.AuthServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.159 s -- in com.james.authservice.AuthServiceApplicationTests

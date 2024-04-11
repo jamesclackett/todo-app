@@ -1,0 +1,5 @@
+*.pem
+**/key/
+**/keys/
+**/db_data/
+*.env
